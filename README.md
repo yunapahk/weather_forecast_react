@@ -7,6 +7,8 @@ Creator:  Joe Keohan<br>
 
 ## Recreating WeatherForecast in React
 
+![Screenshot](weather_react.png)
+
 In this exercise, you will practice creating reusable React Components.
 
 Use the following [CodeSandbox Starter](https://codesandbox.io/s/adoring-goodall-mhive) code
